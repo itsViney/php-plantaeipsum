@@ -1,4 +1,4 @@
-# php-loremipsum
+# php-plantaeipsum
 
 [![License](https://img.shields.io/packagist/l/joshtronic/php-loremipsum?style=for-the-badge)](https://github.com/joshtronic/php-loremipsum/blob/master/LICENSE)
 ![PHP Version](https://img.shields.io/packagist/php-v/joshtronic/php-loremipsum?style=for-the-badge)
