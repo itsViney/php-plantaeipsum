@@ -6,20 +6,7 @@
 [![Coverage Status](https://img.shields.io/coveralls/github/joshtronic/php-loremipsum/master?style=for-the-badge)](https://coveralls.io/github/joshtronic/php-loremipsum?branch=master)
 [![Monthly Downloads](https://img.shields.io/packagist/dm/joshtronic/php-loremipsum?style=for-the-badge)](https://packagist.org/packages/joshtronic/php-loremipsum)
 
-Lorem ipsum generator in PHP without dependencies. Compatible with PHP 5.3+.
-
-## Installation
-
-The preferred installation method is via `composer`. First add the following to
-your `composer.json`:
-
-```json
-"require": {
-    "joshtronic/php-loremipsum": "dev-master"
-}
-```
-
-Then run `composer update`.
+100% plant-based Lorem ipsum generator in PHP without dependencies. Compatible with PHP 5.3+.
 
 ## Usage
 
